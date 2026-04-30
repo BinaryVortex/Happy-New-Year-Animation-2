@@ -2,7 +2,7 @@
 
 A festive Happy New Year animation built with HTML, CSS, and JavaScript — lightweight, responsive, and easy to customize.
 
-![Preview of the animation](./screenshot.png)
+![Preview of the animation](./Screenshot%202024-05-19%20223645.png)
 
 ## Table of Contents
 - [Demo](#demo)
